@@ -9,6 +9,10 @@ Install dependencies,
 $ yarn
 ```
 
+```bash
+$ yarn add [package]
+```
+
 Start the dev server,
 
 ```bash
