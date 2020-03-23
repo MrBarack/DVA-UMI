@@ -1,2 +1,17 @@
 # DVA-UMI
-Demo for DVA-UMI with TypeScript
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
+
